@@ -43,9 +43,9 @@
 			$table_html .= "<td>".$recipient."</td>";
 			$table_html .= "<td>".$message."</td>";
 			$table_html .= "<td>".$created."</td>";
-		$table_html .= "/<tr>"; //end row
+		$table_html .= "<tr>"; //end row
 		
-		echo $id."".$message."<br>";
+		//echo $id."".$message."<br>";
 	
 	}
 	
