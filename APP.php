@@ -94,7 +94,7 @@
 	
 	
 ?>
-
+</br>	<a href="table.php">table<a/>
 <h2> First Application </h2>
 
 <form method="get">
